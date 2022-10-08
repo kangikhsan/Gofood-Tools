@@ -11,7 +11,7 @@ Script Bot Registrasi Gojek, Pasang PIN dan Cek Voucher menggunakan Python yang 
 <p> Edit Di File data.txt</p>
 
 ```
-292821
+170845
 ```
 
 ## 🔥 Fitur Script
